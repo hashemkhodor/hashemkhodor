@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 </div>
 
 
-###
+<!-- ###
 
 <h2 align="left">My Contributions</h2>
 
@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/hashemkhodor/hashemkhodor/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
-<h2 align="left">Stalkers</h2>
+<h2 align="center">Stalkers</h2>
 
 ###
 
