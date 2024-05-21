@@ -1,19 +1,4 @@
- <!-- ### Hi there 👋 -->
 
-<!--
-**hashemkhodor/hashemkhodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!;I'm+Hashem+Khodor!" alt="Typing SVG" /></a>
 </h1>
@@ -26,10 +11,22 @@ Here are some ideas to get you started:
 
 ###
 <h2 align="center">Stats</h2>
+
+<h3 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Github" alt="Github" /></a>
+</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hashemkhodor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=hashemkhodor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashemkhodor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <br/>
+<h3 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=LeetCode" alt="LeetCode" /></a>
+</h3>
+<a href="https://leetcode.com/u/hashemkhoder1/">
+<img src="https://leetcode-stats-six.vercel.app/?username=hashemkhoder1" /> 
+</a>
+
 </div>
 
 ###
@@ -98,15 +95,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<!-- ###
 
-<h2 align="left">My Contributions</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/hashemkhodor/hashemkhodor/output/snake.svg" alt="Snake animation" />
-
-### -->
 
 <h2 align="center">Stalkers</h2>
 
