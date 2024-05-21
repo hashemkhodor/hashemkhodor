@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">A passionate software developer from Lebanon 🇱🇧</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashemkhodor&label=Profile%20views&color=0e75b6&style=flat" alt="hashemkhodor" /> </p>
+
+- Interested in Machine Learning, Cybersecurity, and Software Development.
+- Studying Computer Science and Engineering at AUB.
 
 ###
 <h2 align="center">Stats</h2>
@@ -90,7 +94,7 @@ Here are some ideas to get you started:
   <a href="mailto:hashemkhoder1@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.linkedin.com/in/hashem-khodor-1793a2221/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="https://www.instagram.com/hashem_khoder/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a> -->
 </div>
 
 
@@ -113,4 +117,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<h2 align="center">Leave a Message</h2>
+<!--![Typewriter GIF](assets/typewriter.gif)-->
 
