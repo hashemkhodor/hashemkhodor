@@ -118,5 +118,21 @@ Here are some ideas to get you started:
 
 ###
 <h2 align="center">Leave a Message</h2>
-<!--![Typewriter GIF](assets/typewriter.gif)-->
 
+
+<div align="center"> 
+ <a href="https://github.com/hashemkhodor/hashemkhodor/issues/new">
+  
+  <img src="assets/typewriter.gif" alt="Typewriter GIF">
+ 
+ </a>
+</div>
+
+
+<!-- <div align="center"> 
+ <a href="https://github.com/hashemkhodor/hashemkhodor/issues/new">
+  
+ ![Typewriter GIF](assets/typewriter.gif) 
+ 
+ </a>
+</div> -->
