@@ -20,12 +20,12 @@
   <img src="https://streak-stats.demolab.com?user=hashemkhodor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashemkhodor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
  <br/>
-<h3 align="center">
+<!-- <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=LeetCode" alt="LeetCode" /></a>
 </h3>
 <a href="https://leetcode.com/u/hashemkhoder1/">
 <img src="https://leetcode-stats-six.vercel.app/?username=hashemkhoder1" /> 
-</a>
+</a> -->
 
 </div>
 
